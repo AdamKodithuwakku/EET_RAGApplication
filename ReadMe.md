@@ -1,5 +1,5 @@
 ## RAG (Retrieval-Augmented Generation) Application 
-
+https://github.com/chandralegend/scratch-rag/tree/main
 
 ### SetUp
 pip install uv
